@@ -1,0 +1,10 @@
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Java application data
+users.dat
+quizzes.dat
+results.dat
